@@ -3,4 +3,4 @@ numpy
 matplotlib
 pickle
 streamlit
-scikit-learn
+sklearn
